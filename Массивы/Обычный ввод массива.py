@@ -8,5 +8,3 @@ for i in range(n):
     # append - функция, добавляющая элемент в конец массива
     nums.append(int(input(f'Введите {i + 1}-ое число: ')))
 print(nums)
-
-
